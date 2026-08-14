@@ -1,14 +1,17 @@
-﻿# atividadeGit_teste
+﻿# TechStart
 
-# Meu primeiro README
+## Descrição
 
-## Atividade feita em sala de aula 
+Projeto desenvolvido durante a aula de Git e GitHub.
 
-### Topico 1
+## Funcionalidades
 
-- git init
+- Página inicial;
+- Informações da empresa;
+- Tela de login.
 
-### Topico 2 
+## Tecnologias
 
-- git branch M
-
+- HTML
+- Git
+- GitHub
